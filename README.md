@@ -72,3 +72,6 @@
 * http://enyojs.com/
 * http://qooxdoo.org/
 * http://thoraxjs.org/
+
+# BOOKS
+* http://jsbooks.revolunet.com/
