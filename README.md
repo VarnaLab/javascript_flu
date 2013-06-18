@@ -2,6 +2,7 @@
 * http://caniuse.com/
 
 * http://html5demos.com
+* http://html5rocks.com
 
 * http://microjs.com/
 * http://jsperf.com/
@@ -52,9 +53,9 @@
 * http://haxe.org/
 * http://elm-lang.org/Documentation.elm
 
-
 # FRAMEWORKS
-* http://backbonejs.org/ + * http://backplug.io/ 
+* http://twitter.github.io/flight/
+* http://backbonejs.org/ + http://backplug.io/
 * http://www.amplesdk.com/
 * http://sproutcore.com/
 * http://spinejs.com/
